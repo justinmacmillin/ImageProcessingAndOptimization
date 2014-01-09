@@ -1,7 +1,7 @@
 ImageProcessingAndOptimization
 ==============================
 
-To gain an understanding of vectors and multithreading through optimizing a slow 2d convolution algorithm.
+Brief project description: I was given a slow 2d convolution algorithm and asked to speed it up. In part1.c my partner and I used register blocking, cache blocking, and SSE Intrinsics to speed up the algorithm. In part2.c we made a few changes and implemented openMP to make the algorithm even faster than in part1. 
 
 
 
